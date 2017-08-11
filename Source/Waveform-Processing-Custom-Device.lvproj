@@ -37,44 +37,7 @@
 		<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Circular Buffer Operations.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Operations.ctl"/>
-				<Item Name="Circular Buffer Status.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Status.ctl"/>
-				<Item Name="Circular Buffer(1D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D BOOL).vi"/>
-				<Item Name="Circular Buffer(1D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D DBL).vi"/>
-				<Item Name="Circular Buffer(1D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D EXT).vi"/>
-				<Item Name="Circular Buffer(1D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I8).vi"/>
-				<Item Name="Circular Buffer(1D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I16).vi"/>
-				<Item Name="Circular Buffer(1D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I32).vi"/>
-				<Item Name="Circular Buffer(1D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I64).vi"/>
-				<Item Name="Circular Buffer(1D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D SGL).vi"/>
-				<Item Name="Circular Buffer(1D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D STR).vi"/>
-				<Item Name="Circular Buffer(1D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U8).vi"/>
-				<Item Name="Circular Buffer(1D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U16).vi"/>
-				<Item Name="Circular Buffer(1D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U32).vi"/>
-				<Item Name="Circular Buffer(1D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U64).vi"/>
-				<Item Name="Circular Buffer(1D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL).vi"/>
-				<Item Name="Circular Buffer(2D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D BOOL).vi"/>
-				<Item Name="Circular Buffer(2D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D DBL).vi"/>
-				<Item Name="Circular Buffer(2D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D EXT).vi"/>
-				<Item Name="Circular Buffer(2D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I8).vi"/>
-				<Item Name="Circular Buffer(2D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I16).vi"/>
-				<Item Name="Circular Buffer(2D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I32).vi"/>
-				<Item Name="Circular Buffer(2D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I64).vi"/>
-				<Item Name="Circular Buffer(2D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D SGL).vi"/>
-				<Item Name="Circular Buffer(2D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D STR).vi"/>
-				<Item Name="Circular Buffer(2D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U8).vi"/>
-				<Item Name="Circular Buffer(2D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U16).vi"/>
-				<Item Name="Circular Buffer(2D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U32).vi"/>
-				<Item Name="Circular Buffer(2D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U64).vi"/>
-				<Item Name="Circular Buffer(2D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL).vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
-				<Item Name="Circular Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -358,6 +321,55 @@
 				<Property Name="Source[4].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
+			<Item Name="Waveform Processing Custom Device Package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
+				<Property Name="NIPKG_license" Type="Ref"></Property>
+				<Property Name="NIPKG_releaseNotes" Type="Str"></Property>
+				<Property Name="PKG_actions.Count" Type="Int">0</Property>
+				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
+				<Property Name="PKG_buildNumber" Type="Int">0</Property>
+				<Property Name="PKG_buildSpecName" Type="Str">Waveform Processing Custom Device Package</Property>
+				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
+				<Property Name="PKG_description" Type="Str"></Property>
+				<Property Name="PKG_destinations.Count" Type="Int">4</Property>
+				<Property Name="PKG_destinations[0].ID" Type="Str">{37E8C756-D007-4D47-A990-40B7DCE7B42B}</Property>
+				<Property Name="PKG_destinations[0].Subdir.Directory" Type="Str">National Instruments</Property>
+				<Property Name="PKG_destinations[0].Subdir.Parent" Type="Str">root_2</Property>
+				<Property Name="PKG_destinations[0].Type" Type="Str">Subdir</Property>
+				<Property Name="PKG_destinations[1].ID" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
+				<Property Name="PKG_destinations[1].Subdir.Directory" Type="Str">Custom Devices</Property>
+				<Property Name="PKG_destinations[1].Subdir.Parent" Type="Str">{BB2AE14A-D3FC-4464-8BCA-E2B1780DBAE8}</Property>
+				<Property Name="PKG_destinations[1].Type" Type="Str">Subdir</Property>
+				<Property Name="PKG_destinations[2].ID" Type="Str">{BB2AE14A-D3FC-4464-8BCA-E2B1780DBAE8}</Property>
+				<Property Name="PKG_destinations[2].Subdir.Directory" Type="Str">NI VeriStand 2015</Property>
+				<Property Name="PKG_destinations[2].Subdir.Parent" Type="Str">{37E8C756-D007-4D47-A990-40B7DCE7B42B}</Property>
+				<Property Name="PKG_destinations[2].Type" Type="Str">Subdir</Property>
+				<Property Name="PKG_destinations[3].ID" Type="Str">{D59CC5C3-9428-4620-B827-104562867AA4}</Property>
+				<Property Name="PKG_destinations[3].Subdir.Directory" Type="Str">Waveform-Processing-Custom-Device</Property>
+				<Property Name="PKG_destinations[3].Subdir.Parent" Type="Str">root_5</Property>
+				<Property Name="PKG_destinations[3].Type" Type="Str">Subdir</Property>
+				<Property Name="PKG_displayName" Type="Str">My Package</Property>
+				<Property Name="PKG_displayVersion" Type="Str"></Property>
+				<Property Name="PKG_homepage" Type="Str"></Property>
+				<Property Name="PKG_maintainer" Type="Str">NIC SE &lt;&gt;</Property>
+				<Property Name="PKG_output" Type="Path">../builds/NI_AB_PROJECTNAME/Waveform Processing Custom Device Package</Property>
+				<Property Name="PKG_output.Type" Type="Str">relativeToCommon</Property>
+				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device</Property>
+				<Property Name="PKG_ProviderVersion" Type="Int">17</Property>
+				<Property Name="PKG_section" Type="Str">Application Software</Property>
+				<Property Name="PKG_shortcuts.Count" Type="Int">0</Property>
+				<Property Name="PKG_sources.Count" Type="Int">3</Property>
+				<Property Name="PKG_sources[0].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
+				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/Engine Release</Property>
+				<Property Name="PKG_sources[0].Type" Type="Str">Build</Property>
+				<Property Name="PKG_sources[1].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
+				<Property Name="PKG_sources[1].ID" Type="Ref">/My Computer/Build Specifications/Configuration Release</Property>
+				<Property Name="PKG_sources[1].Type" Type="Str">Build</Property>
+				<Property Name="PKG_sources[2].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
+				<Property Name="PKG_sources[2].ID" Type="Ref">/My Computer/Custom Device Waveform-Processing-Custom-Device.xml</Property>
+				<Property Name="PKG_sources[2].Type" Type="Str">File</Property>
+				<Property Name="PKG_synopsis" Type="Str">Waveform-Processing-Custom-Device</Property>
+				<Property Name="PKG_version" Type="Str">1.0.0</Property>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="RT PXI Target" Type="RT PXI Chassis">
@@ -417,44 +429,7 @@
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Circular Buffer Operations.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Operations.ctl"/>
-				<Item Name="Circular Buffer Status.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Status.ctl"/>
-				<Item Name="Circular Buffer(1D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D BOOL).vi"/>
-				<Item Name="Circular Buffer(1D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D DBL).vi"/>
-				<Item Name="Circular Buffer(1D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D EXT).vi"/>
-				<Item Name="Circular Buffer(1D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I8).vi"/>
-				<Item Name="Circular Buffer(1D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I16).vi"/>
-				<Item Name="Circular Buffer(1D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I32).vi"/>
-				<Item Name="Circular Buffer(1D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I64).vi"/>
-				<Item Name="Circular Buffer(1D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D SGL).vi"/>
-				<Item Name="Circular Buffer(1D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D STR).vi"/>
-				<Item Name="Circular Buffer(1D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U8).vi"/>
-				<Item Name="Circular Buffer(1D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U16).vi"/>
-				<Item Name="Circular Buffer(1D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U32).vi"/>
-				<Item Name="Circular Buffer(1D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U64).vi"/>
-				<Item Name="Circular Buffer(1D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL).vi"/>
-				<Item Name="Circular Buffer(2D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D BOOL).vi"/>
-				<Item Name="Circular Buffer(2D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D DBL).vi"/>
-				<Item Name="Circular Buffer(2D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D EXT).vi"/>
-				<Item Name="Circular Buffer(2D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I8).vi"/>
-				<Item Name="Circular Buffer(2D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I16).vi"/>
-				<Item Name="Circular Buffer(2D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I32).vi"/>
-				<Item Name="Circular Buffer(2D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I64).vi"/>
-				<Item Name="Circular Buffer(2D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D SGL).vi"/>
-				<Item Name="Circular Buffer(2D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D STR).vi"/>
-				<Item Name="Circular Buffer(2D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U8).vi"/>
-				<Item Name="Circular Buffer(2D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U16).vi"/>
-				<Item Name="Circular Buffer(2D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U32).vi"/>
-				<Item Name="Circular Buffer(2D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U64).vi"/>
-				<Item Name="Circular Buffer(2D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL).vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
-				<Item Name="Circular Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -717,44 +692,7 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Circular Buffer Operations.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Operations.ctl"/>
-				<Item Name="Circular Buffer Status.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Status.ctl"/>
-				<Item Name="Circular Buffer(1D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D BOOL).vi"/>
-				<Item Name="Circular Buffer(1D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D DBL).vi"/>
-				<Item Name="Circular Buffer(1D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D EXT).vi"/>
-				<Item Name="Circular Buffer(1D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I8).vi"/>
-				<Item Name="Circular Buffer(1D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I16).vi"/>
-				<Item Name="Circular Buffer(1D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I32).vi"/>
-				<Item Name="Circular Buffer(1D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I64).vi"/>
-				<Item Name="Circular Buffer(1D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D SGL).vi"/>
-				<Item Name="Circular Buffer(1D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D STR).vi"/>
-				<Item Name="Circular Buffer(1D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U8).vi"/>
-				<Item Name="Circular Buffer(1D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U16).vi"/>
-				<Item Name="Circular Buffer(1D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U32).vi"/>
-				<Item Name="Circular Buffer(1D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U64).vi"/>
-				<Item Name="Circular Buffer(1D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL).vi"/>
-				<Item Name="Circular Buffer(2D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D BOOL).vi"/>
-				<Item Name="Circular Buffer(2D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D DBL).vi"/>
-				<Item Name="Circular Buffer(2D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D EXT).vi"/>
-				<Item Name="Circular Buffer(2D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I8).vi"/>
-				<Item Name="Circular Buffer(2D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I16).vi"/>
-				<Item Name="Circular Buffer(2D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I32).vi"/>
-				<Item Name="Circular Buffer(2D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I64).vi"/>
-				<Item Name="Circular Buffer(2D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D SGL).vi"/>
-				<Item Name="Circular Buffer(2D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D STR).vi"/>
-				<Item Name="Circular Buffer(2D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U8).vi"/>
-				<Item Name="Circular Buffer(2D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U16).vi"/>
-				<Item Name="Circular Buffer(2D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U32).vi"/>
-				<Item Name="Circular Buffer(2D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U64).vi"/>
-				<Item Name="Circular Buffer(2D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL).vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
-				<Item Name="Circular Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -984,44 +922,7 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Circular Buffer Operations.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Operations.ctl"/>
-				<Item Name="Circular Buffer Status.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Status.ctl"/>
-				<Item Name="Circular Buffer(1D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D BOOL).vi"/>
-				<Item Name="Circular Buffer(1D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D DBL).vi"/>
-				<Item Name="Circular Buffer(1D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D EXT).vi"/>
-				<Item Name="Circular Buffer(1D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I8).vi"/>
-				<Item Name="Circular Buffer(1D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I16).vi"/>
-				<Item Name="Circular Buffer(1D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I32).vi"/>
-				<Item Name="Circular Buffer(1D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I64).vi"/>
-				<Item Name="Circular Buffer(1D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D SGL).vi"/>
-				<Item Name="Circular Buffer(1D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D STR).vi"/>
-				<Item Name="Circular Buffer(1D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U8).vi"/>
-				<Item Name="Circular Buffer(1D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U16).vi"/>
-				<Item Name="Circular Buffer(1D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U32).vi"/>
-				<Item Name="Circular Buffer(1D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U64).vi"/>
-				<Item Name="Circular Buffer(1D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL).vi"/>
-				<Item Name="Circular Buffer(2D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D BOOL).vi"/>
-				<Item Name="Circular Buffer(2D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D DBL).vi"/>
-				<Item Name="Circular Buffer(2D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D EXT).vi"/>
-				<Item Name="Circular Buffer(2D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I8).vi"/>
-				<Item Name="Circular Buffer(2D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I16).vi"/>
-				<Item Name="Circular Buffer(2D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I32).vi"/>
-				<Item Name="Circular Buffer(2D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I64).vi"/>
-				<Item Name="Circular Buffer(2D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D SGL).vi"/>
-				<Item Name="Circular Buffer(2D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D STR).vi"/>
-				<Item Name="Circular Buffer(2D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U8).vi"/>
-				<Item Name="Circular Buffer(2D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U16).vi"/>
-				<Item Name="Circular Buffer(2D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U32).vi"/>
-				<Item Name="Circular Buffer(2D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U64).vi"/>
-				<Item Name="Circular Buffer(2D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL).vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
-				<Item Name="Circular Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -1253,44 +1154,7 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Circular Buffer Operations.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Operations.ctl"/>
-				<Item Name="Circular Buffer Status.ctl" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Controls/Circular Buffer Status.ctl"/>
-				<Item Name="Circular Buffer(1D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D BOOL).vi"/>
-				<Item Name="Circular Buffer(1D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D DBL).vi"/>
-				<Item Name="Circular Buffer(1D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D EXT).vi"/>
-				<Item Name="Circular Buffer(1D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I8).vi"/>
-				<Item Name="Circular Buffer(1D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I16).vi"/>
-				<Item Name="Circular Buffer(1D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I32).vi"/>
-				<Item Name="Circular Buffer(1D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D I64).vi"/>
-				<Item Name="Circular Buffer(1D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D SGL).vi"/>
-				<Item Name="Circular Buffer(1D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D STR).vi"/>
-				<Item Name="Circular Buffer(1D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U8).vi"/>
-				<Item Name="Circular Buffer(1D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U16).vi"/>
-				<Item Name="Circular Buffer(1D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U32).vi"/>
-				<Item Name="Circular Buffer(1D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D U64).vi"/>
-				<Item Name="Circular Buffer(1D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(1D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(1D Wfm-SGL).vi"/>
-				<Item Name="Circular Buffer(2D BOOL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D BOOL).vi"/>
-				<Item Name="Circular Buffer(2D DBL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D DBL).vi"/>
-				<Item Name="Circular Buffer(2D EXT).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D EXT).vi"/>
-				<Item Name="Circular Buffer(2D I8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I8).vi"/>
-				<Item Name="Circular Buffer(2D I16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I16).vi"/>
-				<Item Name="Circular Buffer(2D I32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I32).vi"/>
-				<Item Name="Circular Buffer(2D I64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D I64).vi"/>
-				<Item Name="Circular Buffer(2D SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D SGL).vi"/>
-				<Item Name="Circular Buffer(2D STR).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D STR).vi"/>
-				<Item Name="Circular Buffer(2D U8).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U8).vi"/>
-				<Item Name="Circular Buffer(2D U16).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U16).vi"/>
-				<Item Name="Circular Buffer(2D U32).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U32).vi"/>
-				<Item Name="Circular Buffer(2D U64).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D U64).vi"/>
-				<Item Name="Circular Buffer(2D Wfm with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL with Attributes).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL with Attributes).vi"/>
-				<Item Name="Circular Buffer(2D Wfm-SGL).vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Instance VIs/Circular Buffer(2D Wfm-SGL).vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
-				<Item Name="Circular Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
