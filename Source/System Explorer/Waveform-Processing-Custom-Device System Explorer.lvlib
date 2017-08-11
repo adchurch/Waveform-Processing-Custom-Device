@@ -29,6 +29,7 @@
 			<Item Name="Get Waveform Section Refs.vi" Type="VI" URL="../SubVIs/Get Waveform Section Refs.vi"/>
 			<Item Name="Get Waveform Tasks.vi" Type="VI" URL="../SubVIs/Get Waveform Tasks.vi"/>
 			<Item Name="Get Wfm Refs.vi" Type="VI" URL="../SubVIs/Get Wfm Refs.vi"/>
+			<Item Name="Load Help File.vi" Type="VI" URL="../SubVIs/Load Help File.vi"/>
 			<Item Name="Logical String Array Sort.vi" Type="VI" URL="../logicalstringarraysort.llb/Logical String Array Sort.vi"/>
 			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../SubVIs/Populate Available Wfms.vi"/>
 			<Item Name="Remove All Waveforms.vi" Type="VI" URL="../SubVIs/Remove All Waveforms.vi"/>

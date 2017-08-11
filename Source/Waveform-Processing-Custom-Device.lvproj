@@ -136,7 +136,6 @@
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Load Help File.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/ProjectTemplates/Source/NI VeriStand/Inline Async Wizard/Template Files/Load Help File.vi"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
@@ -504,7 +503,6 @@
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Load Help File.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/ProjectTemplates/Source/NI VeriStand/Inline Async Wizard/Template Files/Load Help File.vi"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
