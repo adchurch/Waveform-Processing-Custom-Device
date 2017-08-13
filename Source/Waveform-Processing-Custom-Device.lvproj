@@ -321,13 +321,13 @@
 				<Property Name="Source[4].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
-			<Item Name="Waveform Processing Custom Device Package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
+			<Item Name="Package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
 				<Property Name="NIPKG_license" Type="Ref"></Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str"></Property>
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_buildNumber" Type="Int">0</Property>
-				<Property Name="PKG_buildSpecName" Type="Str">Waveform Processing Custom Device Package</Property>
+				<Property Name="PKG_buildSpecName" Type="Str">Package</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
 				<Property Name="PKG_description" Type="Str"></Property>
 				<Property Name="PKG_destinations.Count" Type="Int">4</Property>
@@ -351,9 +351,9 @@
 				<Property Name="PKG_displayVersion" Type="Str"></Property>
 				<Property Name="PKG_homepage" Type="Str"></Property>
 				<Property Name="PKG_maintainer" Type="Str">NIC SE &lt;&gt;</Property>
-				<Property Name="PKG_output" Type="Path">../builds/NI_AB_PROJECTNAME/Waveform Processing Custom Device Package</Property>
+				<Property Name="PKG_output" Type="Path">../builds/Package</Property>
 				<Property Name="PKG_output.Type" Type="Str">relativeToCommon</Property>
-				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device</Property>
+				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device-for-veristand-2015</Property>
 				<Property Name="PKG_ProviderVersion" Type="Int">17</Property>
 				<Property Name="PKG_section" Type="Str">Application Software</Property>
 				<Property Name="PKG_shortcuts.Count" Type="Int">0</Property>
