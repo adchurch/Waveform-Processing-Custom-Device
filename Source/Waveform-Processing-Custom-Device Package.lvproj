@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Custom Device Waveform-Processing-Custom-Device.xml" Type="Document" URL="../../Built/Waveform-Processing-Custom-Device/Custom Device Waveform-Processing-Custom-Device.xml"/>
+		<Item Name="LICENSE.rtf" Type="Document" URL="../../LICENSE.rtf"/>
 		<Item Name="Waveform-Processing-Custom-Device Configuration.llb" Type="Document" URL="../../Built/Waveform-Processing-Custom-Device/Windows/Waveform-Processing-Custom-Device Configuration.llb"/>
 		<Item Name="Waveform-Processing-Custom-Device Engine Linux64.llb" Type="Document" URL="../../Built/Waveform-Processing-Custom-Device/Linux_x64/Waveform-Processing-Custom-Device Engine Linux64.llb"/>
 		<Item Name="Waveform-Processing-Custom-Device Engine LinuxARM.llb" Type="Document" URL="../../Built/Waveform-Processing-Custom-Device/Linux_32_ARM/Waveform-Processing-Custom-Device Engine LinuxARM.llb"/>
@@ -20,14 +21,16 @@
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
-				<Property Name="NIPKG_license" Type="Ref"></Property>
+				<Property Name="NIPKG_license" Type="Ref">/My Computer/LICENSE.rtf</Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str"></Property>
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_buildNumber" Type="Int">0</Property>
 				<Property Name="PKG_buildSpecName" Type="Str">Package</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
-				<Property Name="PKG_description" Type="Str"></Property>
+				<Property Name="PKG_description" Type="Str">This package adds the Waveform Processing Custom Device to NI VeriStand. This custom device allows the user to perform basic processing on DAQ waveforms within NI VeriStand. Current measurements include a running average as well as the latest available single point sample from the waveform. 
+
+The code depends on the LabVIEW Software Circuler Buffer library: http://www.ni.com/tutorial/7188/en/</Property>
 				<Property Name="PKG_destinations.Count" Type="Int">10</Property>
 				<Property Name="PKG_destinations[0].ID" Type="Str">{2C7B7F99-A0D3-4E70-AC67-B1564A213C71}</Property>
 				<Property Name="PKG_destinations[0].Subdir.Directory" Type="Str">Pharlap</Property>
@@ -69,15 +72,15 @@
 				<Property Name="PKG_destinations[9].Subdir.Directory" Type="Str">VxWorks</Property>
 				<Property Name="PKG_destinations[9].Subdir.Parent" Type="Str">{AC88309C-AB69-463D-8006-E0E2E7DB65E5}</Property>
 				<Property Name="PKG_destinations[9].Type" Type="Str">Subdir</Property>
-				<Property Name="PKG_displayName" Type="Str">My Package</Property>
+				<Property Name="PKG_displayName" Type="Str">Waveform Processing Custom Device</Property>
 				<Property Name="PKG_displayVersion" Type="Str"></Property>
-				<Property Name="PKG_homepage" Type="Str"></Property>
+				<Property Name="PKG_homepage" Type="Str">https://github.com/NIVeriStandAdd-Ons/Waveform-Processing-Custom-Device</Property>
 				<Property Name="PKG_maintainer" Type="Str">NIC SE &lt;&gt;</Property>
 				<Property Name="PKG_output" Type="Path">../builds/Package</Property>
 				<Property Name="PKG_output.Type" Type="Str">relativeToCommon</Property>
 				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device-package</Property>
 				<Property Name="PKG_ProviderVersion" Type="Int">17</Property>
-				<Property Name="PKG_section" Type="Str">Application Software</Property>
+				<Property Name="PKG_section" Type="Str">Add-ons</Property>
 				<Property Name="PKG_shortcuts.Count" Type="Int">0</Property>
 				<Property Name="PKG_sources.Count" Type="Int">7</Property>
 				<Property Name="PKG_sources[0].Destination" Type="Str">{AC88309C-AB69-463D-8006-E0E2E7DB65E5}</Property>
