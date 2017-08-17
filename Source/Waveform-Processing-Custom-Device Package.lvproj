@@ -73,7 +73,7 @@
 				<Property Name="PKG_displayVersion" Type="Str"></Property>
 				<Property Name="PKG_homepage" Type="Str"></Property>
 				<Property Name="PKG_maintainer" Type="Str">NIC SE &lt;&gt;</Property>
-				<Property Name="PKG_output" Type="Path">../builds/NI_AB_PROJECTNAME/Package</Property>
+				<Property Name="PKG_output" Type="Path">../builds/Package</Property>
 				<Property Name="PKG_output.Type" Type="Str">relativeToCommon</Property>
 				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device-package</Property>
 				<Property Name="PKG_ProviderVersion" Type="Int">17</Property>
