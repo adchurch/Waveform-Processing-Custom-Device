@@ -3,7 +3,7 @@
 
 nodeLabel='slave-node'
 sourceVersion='2015'
-lvVersions=["2015"]
+lvVersions=["2016"]
 
 stage("Pipeline"){
 
