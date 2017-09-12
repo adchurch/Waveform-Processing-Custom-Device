@@ -7,6 +7,6 @@ lvVersions=["2016"]
 
 stage("Pipeline"){
 
-    buildPipeline(new BuildInformation(nodeLabel, sourceVersion, lvVersions))
+    buildPipeline(getCommonBuildInformation())
     
 }
