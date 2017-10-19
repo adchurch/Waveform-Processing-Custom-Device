@@ -18,6 +18,7 @@
 			<Item Name="RTMs" Type="Folder">
 				<Item Name="EnableDisable Main Page.vi" Type="VI" URL="../EnableDisable Main Page.vi"/>
 				<Item Name="Export Configuration RTM.vi" Type="VI" URL="../Export Configuration RTM.vi"/>
+				<Item Name="Main.RTM.AddWaveforms.vi" Type="VI" URL="../RTM/Main.RTM.AddWaveforms.vi"/>
 			</Item>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>

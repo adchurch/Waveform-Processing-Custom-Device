@@ -61,19 +61,7 @@
 		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
 	   <RunTimeMenu>
-         <MenuItem>
-          <GUID>2f4e2a95-eba1-4606-92ea-d20618160534</GUID>
-          <Type>VI</Type>
-          <Name>
-            <eng>Add Waveforms</eng>
-            <loc>Add Waveforms</loc>
-          </Name>
-          <Item2Launch>
-            <Type>To Common Doc Dir</Type>
-            <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main.RTM.AddWaveforms.vi</Path>
-          </Item2Launch>
-        </MenuItem>
-		<MenuItem>
+        <MenuItem>
           <GUID>01e8f077-156a-4698-bbdc-a047cf741b9d</GUID>
           <Type>Action</Type>
           <Name>
@@ -130,6 +118,19 @@
         <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
       <RunTimeMenu>
+	  <MenuItem>
+          <GUID>2f4e2a95-eba1-4606-92ea-d20618160534</GUID>
+          <Type>VI</Type>
+		  <Execution>Modal</Execution>
+          <Name>
+            <eng>Add Waveforms</eng>
+            <loc>Add Waveforms</loc>
+          </Name>
+          <Item2Launch>
+            <Type>To Common Doc Dir</Type>
+            <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main.RTM.AddWaveforms.vi</Path>
+          </Item2Launch>
+        </MenuItem>
         <MenuItem>
           <GUID>01e8f077-156a-4698-bbdc-a047cf741b9d</GUID>
           <Type>Action</Type>
