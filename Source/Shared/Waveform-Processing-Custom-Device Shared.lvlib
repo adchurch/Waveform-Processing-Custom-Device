@@ -12,8 +12,5 @@
 		</Item>
 		<Item Name="CD Config Settings FG.vi" Type="VI" URL="../CD Config Settings FG.vi"/>
 		<Item Name="Constants.vi" Type="VI" URL="../Constants.vi"/>
-		<Item Name="Running Average.lvlib" Type="Library" URL="../Running Average/Running Average.lvlib"/>
-		<Item Name="Scaled Waveform.lvlib" Type="Library" URL="../Scaled Waveform/Scaled Waveform.lvlib"/>
-		<Item Name="SinglePoint.lvlib" Type="Library" URL="../Single Point/SinglePoint.lvlib"/>
 	</Item>
 </Library>

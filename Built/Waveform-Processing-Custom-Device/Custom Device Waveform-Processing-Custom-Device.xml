@@ -60,8 +60,20 @@
         <Type>To Common Doc Dir</Type>
 		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
-	   <RunTimeMenu>
-        <MenuItem>
+	   <RunTimeMenu>        
+		<MenuItem>
+          <GUID>ee7ca942-5db7-48db-a407-0a961965dffe</GUID>
+          <Type>VI</Type>
+          <Name>
+            <eng>Add Calculation</eng>
+            <loc>Add Calculation</loc>
+          </Name>
+          <Item2Launch>
+            <Type>To Common Doc Dir</Type>
+            <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\RTM Add Calculations.vi</Path>
+          </Item2Launch>
+        </MenuItem>
+		<MenuItem>
           <GUID>01e8f077-156a-4698-bbdc-a047cf741b9d</GUID>
           <Type>Action</Type>
           <Name>
@@ -118,19 +130,6 @@
         <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
       <RunTimeMenu>
-	  <MenuItem>
-          <GUID>2f4e2a95-eba1-4606-92ea-d20618160534</GUID>
-          <Type>VI</Type>
-		  <Execution>Modal</Execution>
-          <Name>
-            <eng>Add Waveforms</eng>
-            <loc>Add Waveforms</loc>
-          </Name>
-          <Item2Launch>
-            <Type>To Common Doc Dir</Type>
-            <Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Main.RTM.AddWaveforms.vi</Path>
-          </Item2Launch>
-        </MenuItem>
         <MenuItem>
           <GUID>01e8f077-156a-4698-bbdc-a047cf741b9d</GUID>
           <Type>Action</Type>
@@ -171,23 +170,6 @@
     </Page>
 <Page>
       <Name>
-        <eng>Running Average Settings</eng>
-        <loc>Running Average Settings</loc>
-      </Name>
-	  <DisallowRenaming>true</DisallowRenaming>
-	  <DeleteProtection>true</DeleteProtection>
-      <GUID>98bae003-a8c4-4cad-9e5d-6f3690f27bc7</GUID>
-      <Glyph>
-			<Type>To Application Data Dir</Type>
-			<Path>System Explorer\Glyphs\sim parameters.png</Path>
-		</Glyph>
-      <Item2Launch>
-        <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Running Average Settings.vi</Path>
-      </Item2Launch>
-    </Page>
-<Page>
-      <Name>
         <eng>Waveform Results Section</eng>
         <loc>Waveform Results Section</loc>
       </Name>
@@ -201,6 +183,36 @@
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
 		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Waveform Results Section.vi</Path>
+      </Item2Launch>
+ </Page>
+ <Page>
+      <Name>
+        <eng>Running Average Channel Page</eng>
+        <loc>Running Average Channel Page</loc>
+      </Name>
+      <GUID>e151e0be-3bdd-4097-ab1a-da058acb6cbb</GUID>
+      <Glyph>
+			<Type>To Application Data Dir</Type>
+			<Path>System Explorer\Glyphs\default fpga channel.png</Path>
+		</Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Running Average Channel Page.vi</Path>
+      </Item2Launch>
+ </Page>
+ <Page>
+      <Name>
+        <eng>Latest Value Channel Page</eng>
+        <loc>Latest Value Channel Page</loc>
+      </Name>
+      <GUID>c6ffd7be-c9a3-44d1-82af-6425f170cd2d</GUID>
+      <Glyph>
+			<Type>To Application Data Dir</Type>
+			<Path>System Explorer\Glyphs\default fpga channel.png</Path>
+		</Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Latest Value Channel Page.vi</Path>
       </Item2Launch>
  </Page>
   </Pages>

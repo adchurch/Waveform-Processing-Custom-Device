@@ -5,11 +5,12 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Dynamically Called" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Actions" Type="Folder">
 				<Item Name="ActionVIOnCompile.vi" Type="VI" URL="../ActionVIOnCompile.vi"/>
 			</Item>
 			<Item Name="Extra Pages" Type="Folder">
-				<Item Name="Running Average Channel.vi" Type="VI" URL="../Pages/Running Average Channel.vi"/>
+				<Item Name="Running Average Channel Page.vi" Type="VI" URL="../Pages/Running Average Channel Page.vi"/>
 				<Item Name="Running Averiage Settings.vi" Type="VI" URL="../Pages/Running Averiage Settings.vi"/>
 				<Item Name="Scaled Waveform Channel.vi" Type="VI" URL="../Pages/Scaled Waveform Channel.vi"/>
 				<Item Name="Single Point Channel.vi" Type="VI" URL="../Pages/Single Point Channel.vi"/>
@@ -18,23 +19,21 @@
 			<Item Name="RTMs" Type="Folder">
 				<Item Name="EnableDisable Main Page.vi" Type="VI" URL="../EnableDisable Main Page.vi"/>
 				<Item Name="Export Configuration RTM.vi" Type="VI" URL="../Export Configuration RTM.vi"/>
-				<Item Name="Main.RTM.AddWaveforms.vi" Type="VI" URL="../RTM/Main.RTM.AddWaveforms.vi"/>
+				<Item Name="RTM Add Calculations.vi" Type="VI" URL="../RTM/RTM Add Calculations.vi"/>
 			</Item>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Add Waveform Sections.vi" Type="VI" URL="../SubVIs/Add Waveform Sections.vi"/>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../SubVIs/Get Task Rate.vi"/>
+			<Item Name="Get Available Calculations Property.vi" Type="VI" URL="../SubVIs/Get Available Calculations Property.vi"/>
 			<Item Name="Get Waveform Section Refs.vi" Type="VI" URL="../SubVIs/Get Waveform Section Refs.vi"/>
 			<Item Name="Get Waveform Tasks.vi" Type="VI" URL="../SubVIs/Get Waveform Tasks.vi"/>
 			<Item Name="Get Wfm Refs.vi" Type="VI" URL="../SubVIs/Get Wfm Refs.vi"/>
 			<Item Name="Load Help File.vi" Type="VI" URL="../SubVIs/Load Help File.vi"/>
 			<Item Name="Logical String Array Sort.vi" Type="VI" URL="../logicalstringarraysort.llb/Logical String Array Sort.vi"/>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../SubVIs/Populate Available Wfms.vi"/>
 			<Item Name="Remove All Waveforms.vi" Type="VI" URL="../SubVIs/Remove All Waveforms.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../SubVIs/Remove Waveforms from ListBox.vi"/>
+			<Item Name="Waveform.Task.GetRate.vi" Type="VI" URL="../SubVIs/Waveform.Task.GetRate.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder"/>
 	</Item>
