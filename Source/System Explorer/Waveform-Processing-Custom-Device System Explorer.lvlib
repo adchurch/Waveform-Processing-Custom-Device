@@ -12,7 +12,7 @@
 			<Item Name="Extra Pages" Type="Folder">
 				<Item Name="Running Average Channel Page.vi" Type="VI" URL="../Pages/Running Average Channel Page.vi"/>
 				<Item Name="Running Averiage Settings.vi" Type="VI" URL="../Pages/Running Averiage Settings.vi"/>
-				<Item Name="Scaled Waveform Channel.vi" Type="VI" URL="../Pages/Scaled Waveform Channel.vi"/>
+				<Item Name="Scaled Waveform Channel Page.vi" Type="VI" URL="../Pages/Scaled Waveform Channel Page.vi"/>
 				<Item Name="Latest Value Channel Page.vi" Type="VI" URL="../Pages/Latest Value Channel Page.vi"/>
 				<Item Name="Waveform Results Section.vi" Type="VI" URL="../Pages/Waveform Results Section.vi"/>
 			</Item>
@@ -28,6 +28,7 @@
 			<Item Name="Add Waveform Sections.vi" Type="VI" URL="../SubVIs/Add Waveform Sections.vi"/>
 			<Item Name="Build Result Channel Name from Wfm System Definition Path.vi" Type="VI" URL="../SubVIs/Build Result Channel Name from Wfm System Definition Path.vi"/>
 			<Item Name="Get Available Calculations Property.vi" Type="VI" URL="../SubVIs/Get Available Calculations Property.vi"/>
+			<Item Name="Get Source Waveform Task Data.vi" Type="VI" URL="../SubVIs/Get Source Waveform Task Data.vi"/>
 			<Item Name="Get Waveform Section Refs.vi" Type="VI" URL="../SubVIs/Get Waveform Section Refs.vi"/>
 			<Item Name="Get Waveform Tasks.vi" Type="VI" URL="../SubVIs/Get Waveform Tasks.vi"/>
 			<Item Name="Get Wfm Refs.vi" Type="VI" URL="../SubVIs/Get Wfm Refs.vi"/>
@@ -36,6 +37,8 @@
 			<Item Name="Remove All Waveforms.vi" Type="VI" URL="../SubVIs/Remove All Waveforms.vi"/>
 			<Item Name="Waveform.Task.GetRate.vi" Type="VI" URL="../SubVIs/Waveform.Task.GetRate.vi"/>
 		</Item>
-		<Item Name="Types" Type="Folder"/>
+		<Item Name="Types" Type="Folder">
+			<Item Name="Source Waveform Data.ctl" Type="VI" URL="../Types/Source Waveform Data.ctl"/>
+		</Item>
 	</Item>
 </Library>

@@ -14,6 +14,7 @@
 		<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
 		<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 		<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+		<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Custom Device API.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI VeriStand/Custom Device API/Custom Device API.lvlib"/>

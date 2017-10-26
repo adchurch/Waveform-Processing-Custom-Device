@@ -215,6 +215,21 @@
 		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Latest Value Channel Page.vi</Path>
       </Item2Launch>
  </Page>
+ <Page>
+      <Name>
+        <eng>Scaled Waveform Channel Page</eng>
+        <loc>Scaled Waveform Channel Page</loc>
+      </Name>
+      <GUID>a4cb85d1-2d68-4a36-ab31-40d36872ac43</GUID>
+      <Glyph>
+			<Type>To Application Data Dir</Type>
+			<Path>System Explorer\Glyphs\default fpga channel.png</Path>
+		</Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+		<Path>Custom Devices\Waveform-Processing-Custom-Device\Windows\Waveform-Processing-Custom-Device Configuration.llb\Scaled Waveform Channel Page.vi</Path>
+      </Item2Launch>
+ </Page>
   </Pages>
   <CustomXML>
     <Dummy></Dummy>

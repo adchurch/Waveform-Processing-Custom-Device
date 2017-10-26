@@ -34,6 +34,7 @@
 		<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
 		<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 		<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+		<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 		<Item Name="CHM Generator.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Compiled HTML Menu Tool/CHM Generator/CHM Generator.lvclass"/>
 		<Item Name="Custom Device Waveform-Processing-Custom-Device.xml" Type="Document" URL="../Custom Device Waveform-Processing-Custom-Device.xml"/>
 		<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
@@ -113,9 +114,6 @@
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -499,9 +497,6 @@
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -513,6 +508,7 @@
 			</Item>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -773,9 +769,6 @@ DirectoryIndex index.htm
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -787,6 +780,7 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -1015,9 +1009,6 @@ DirectoryIndex index.htm
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1029,6 +1020,7 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -1259,9 +1251,6 @@ DirectoryIndex index.htm
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1273,6 +1262,7 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
+			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
 		</Item>
