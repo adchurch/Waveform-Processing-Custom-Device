@@ -31,6 +31,9 @@
 			<Item Name="Copy .LLB to NI VeriStand dir.vi" Type="VI" URL="../Utility/Copy .LLB to NI VeriStand dir.vi"/>
 			<Item Name="LLB Pre-Build CHM Build.vi" Type="VI" URL="../Utility/LLB Pre-Build CHM Build.vi"/>
 		</Item>
+		<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
+		<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
+		<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
 		<Item Name="CHM Generator.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Compiled HTML Menu Tool/CHM Generator/CHM Generator.lvclass"/>
 		<Item Name="Custom Device Waveform-Processing-Custom-Device.xml" Type="Document" URL="../Custom Device Waveform-Processing-Custom-Device.xml"/>
 		<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
@@ -42,6 +45,8 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
+				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -437,7 +442,9 @@
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
+				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -709,7 +716,9 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
+				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -948,7 +957,9 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device Shared.lvlib" Type="Library" URL="../Shared/Waveform-Processing-Custom-Device Shared.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
+				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -1190,7 +1201,9 @@ DirectoryIndex index.htm
 		<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
 				<Item Name="Circular Buffer.lvlib" Type="Library" URL="/&lt;userlib&gt;/Circular Buffer/Circular Buffer.lvlib"/>
+				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
