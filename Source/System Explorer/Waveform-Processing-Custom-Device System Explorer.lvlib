@@ -36,6 +36,7 @@
 			<Item Name="Logical String Array Sort.vi" Type="VI" URL="../logicalstringarraysort.llb/Logical String Array Sort.vi"/>
 			<Item Name="Remove All Waveforms.vi" Type="VI" URL="../SubVIs/Remove All Waveforms.vi"/>
 			<Item Name="Waveform.Task.GetRate.vi" Type="VI" URL="../SubVIs/Waveform.Task.GetRate.vi"/>
+			<Item Name="Write Source Waveform Task Data Property.vi" Type="VI" URL="../SubVIs/Write Source Waveform Task Data Property.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
 			<Item Name="Source Waveform Data.ctl" Type="VI" URL="../Types/Source Waveform Data.ctl"/>
