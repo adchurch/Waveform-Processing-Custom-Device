@@ -1,0 +1,19 @@
+[archive]
+build_output_dir = 'Built'
+archive_location = '\\nirvana\temp\vs_cds\engine_sim_tk_custom_device'
+
+[projects.cd]
+path = 'Source\Waveform-Processing-Custom-Device.lvproj'
+
+[[build.steps]]
+name = 'Configuration Library'
+type = 'lvBuildSpec'
+project = '{cd}'
+target = 'My Computer'
+build_spec = 'Configuration Release'
+
+[[build.steps]]
+name = 'Engine Libraries'
+type = 'lvBuildSpecAllTargets'
+project = '{cd}'
+build_spec = 'Engine Release'

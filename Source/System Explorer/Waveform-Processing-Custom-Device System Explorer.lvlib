@@ -10,10 +10,14 @@
 				<Item Name="ActionVIOnCompile.vi" Type="VI" URL="../ActionVIOnCompile.vi"/>
 			</Item>
 			<Item Name="Extra Pages" Type="Folder">
+<<<<<<< .merge_file_a02672
 				<Item Name="Running Average Channel Page.vi" Type="VI" URL="../Pages/Running Average Channel Page.vi"/>
 				<Item Name="Running Averiage Settings.vi" Type="VI" URL="../Pages/Running Averiage Settings.vi"/>
 				<Item Name="Scaled Waveform Channel Page.vi" Type="VI" URL="../Pages/Scaled Waveform Channel Page.vi"/>
 				<Item Name="Latest Value Channel Page.vi" Type="VI" URL="../Pages/Latest Value Channel Page.vi"/>
+=======
+				<Item Name="Running Average Settings.vi" Type="VI" URL="../Pages/Running Average Settings.vi"/>
+>>>>>>> .merge_file_a04272
 				<Item Name="Waveform Results Section.vi" Type="VI" URL="../Pages/Waveform Results Section.vi"/>
 			</Item>
 			<Item Name="RTMs" Type="Folder">
@@ -25,6 +29,7 @@
 			<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="ActionVIDebug.vi" Type="VI" URL="../ActionVIDebug.vi"/>
 			<Item Name="Add Waveform Sections.vi" Type="VI" URL="../SubVIs/Add Waveform Sections.vi"/>
 			<Item Name="Build Result Channel Name from Wfm System Definition Path.vi" Type="VI" URL="../SubVIs/Build Result Channel Name from Wfm System Definition Path.vi"/>
 			<Item Name="Get Available Calculations Property.vi" Type="VI" URL="../SubVIs/Get Available Calculations Property.vi"/>

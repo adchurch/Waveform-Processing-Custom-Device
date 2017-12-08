@@ -2,7 +2,11 @@ Microsoft HTML Help Compiler 4.74.8702
 
 
 
+<<<<<<< .merge_file_a05776
 Compiling c:\Users\admin\Documents\Waveform-Processing-Custom-Device\Source\Help\Waveform-Processing-Custom-Device.chm
+=======
+Compiling c:\Users\Admin\Documents\Github\adchurch\Waveform-Processing-Custom-Device\Source\Help\Waveform-Processing-Custom-Device.chm
+>>>>>>> .merge_file_a06052
 
 
 
@@ -22,7 +26,13 @@ Compile time: 0 minutes, 0 seconds
 
 
 
+<<<<<<< .merge_file_a05776
 Created c:\Users\admin\Documents\Waveform-Processing-Custom-Device\Source\Help\Waveform-Processing-Custom-Device.chm, 80,022 bytes
 
 Compression decreased file by 254,156 bytes.
+=======
+Created c:\Users\Admin\Documents\Github\adchurch\Waveform-Processing-Custom-Device\Source\Help\Waveform-Processing-Custom-Device.chm, 80,072 bytes
+
+Compression decreased file by 254,070 bytes.
+>>>>>>> .merge_file_a06052
 

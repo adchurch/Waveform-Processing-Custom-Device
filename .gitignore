@@ -1,5 +1,9 @@
 Source/System Explorer/SubVIs/Get Waveforms.vi
+<<<<<<< .merge_file_a07072
 Source/Waveform-Processing-Custom-Device.lvlps
 Source/Waveform-Processing-Custom-Device.aliases
 Source/Waveform-Processing-Custom-Device Package.aliases
 Source/Waveform-Processing-Custom-Device Package.lvlps
+=======
+Source/Waveform-Processing-Custom-Device.aliases
+>>>>>>> .merge_file_a00904
