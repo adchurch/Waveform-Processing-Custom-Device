@@ -492,16 +492,11 @@
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../System Explorer/SubVIs/Get Task Rate.vi"/>
 			<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -511,19 +506,9 @@
 			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../System Explorer/SubVIs/Populate Available Wfms.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Remove Waveforms from ListBox.vi"/>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
-			<Item Name="RunningAverage-AddResultChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddResultChannels.vi"/>
-			<Item Name="RunningAverage-AddSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddSection.vi"/>
-			<Item Name="RunningAverage-RemoveResultChannel.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveResultChannel.vi"/>
-			<Item Name="RunningAverage-RemoveSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveSection.vi"/>
-			<Item Name="RunningAverage-UpdateChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-UpdateChannels.vi"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
 			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
-			<Item Name="SinglePoint-AddResultChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-AddResultChannels.vi"/>
-			<Item Name="SinglePoint-RemoveResultChannel.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-RemoveResultChannel.vi"/>
-			<Item Name="SinglePoint-UpdateChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-UpdateChannels.vi"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -779,16 +764,11 @@ DirectoryIndex index.htm
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../System Explorer/SubVIs/Get Task Rate.vi"/>
 			<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -798,19 +778,9 @@ DirectoryIndex index.htm
 			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../System Explorer/SubVIs/Populate Available Wfms.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Remove Waveforms from ListBox.vi"/>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
-			<Item Name="RunningAverage-AddResultChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddResultChannels.vi"/>
-			<Item Name="RunningAverage-AddSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddSection.vi"/>
-			<Item Name="RunningAverage-RemoveResultChannel.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveResultChannel.vi"/>
-			<Item Name="RunningAverage-RemoveSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveSection.vi"/>
-			<Item Name="RunningAverage-UpdateChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-UpdateChannels.vi"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
 			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
-			<Item Name="SinglePoint-AddResultChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-AddResultChannels.vi"/>
-			<Item Name="SinglePoint-RemoveResultChannel.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-RemoveResultChannel.vi"/>
-			<Item Name="SinglePoint-UpdateChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-UpdateChannels.vi"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -1034,16 +1004,11 @@ DirectoryIndex index.htm
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../System Explorer/SubVIs/Get Task Rate.vi"/>
 			<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1053,19 +1018,9 @@ DirectoryIndex index.htm
 			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../System Explorer/SubVIs/Populate Available Wfms.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Remove Waveforms from ListBox.vi"/>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
-			<Item Name="RunningAverage-AddResultChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddResultChannels.vi"/>
-			<Item Name="RunningAverage-AddSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddSection.vi"/>
-			<Item Name="RunningAverage-RemoveResultChannel.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveResultChannel.vi"/>
-			<Item Name="RunningAverage-RemoveSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveSection.vi"/>
-			<Item Name="RunningAverage-UpdateChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-UpdateChannels.vi"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
 			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
-			<Item Name="SinglePoint-AddResultChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-AddResultChannels.vi"/>
-			<Item Name="SinglePoint-RemoveResultChannel.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-RemoveResultChannel.vi"/>
-			<Item Name="SinglePoint-UpdateChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-UpdateChannels.vi"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="Waveform-Processing-Custom-Device System Explorer.lvlib" Type="Library" URL="../System Explorer/Waveform-Processing-Custom-Device System Explorer.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
@@ -1291,16 +1246,11 @@ DirectoryIndex index.htm
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/ni/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../System Explorer/SubVIs/Get Task Rate.vi"/>
 			<Item Name="LatestValueCalculation.lvclass" Type="LVClass" URL="../Classes/LatestValueCalculation/LatestValueCalculation.lvclass"/>
 			<Item Name="LogSort_Partition.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Partition.vi"/>
 			<Item Name="LogSort_Stack.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_Stack.vi"/>
 			<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../System Explorer/logicalstringarraysort.llb/LogSort_StackHandler.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="NationalInstruments.VeriStand.SystemDefinitionAPI" Type="Document" URL="NationalInstruments.VeriStand.SystemDefinitionAPI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1310,19 +1260,9 @@ DirectoryIndex index.htm
 			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../System Explorer/SubVIs/Populate Available Wfms.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Remove Waveforms from ListBox.vi"/>
 			<Item Name="Running Average.lvlib" Type="Library" URL="../Shared/Running Average/Running Average.lvlib"/>
-			<Item Name="RunningAverage-AddResultChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddResultChannels.vi"/>
-			<Item Name="RunningAverage-AddSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddSection.vi"/>
-			<Item Name="RunningAverage-RemoveResultChannel.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveResultChannel.vi"/>
-			<Item Name="RunningAverage-RemoveSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveSection.vi"/>
-			<Item Name="RunningAverage-UpdateChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-UpdateChannels.vi"/>
 			<Item Name="RunningAverageCalculation.lvclass" Type="LVClass" URL="../Classes/RunningAverageCalculation/RunningAverageCalculation.lvclass"/>
 			<Item Name="ScaledWaveformCalculation.lvclass" Type="LVClass" URL="../Classes/ScaledWaveformCalculation/ScaledWaveformCalculation.lvclass"/>
-			<Item Name="SinglePoint-AddResultChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-AddResultChannels.vi"/>
-			<Item Name="SinglePoint-RemoveResultChannel.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-RemoveResultChannel.vi"/>
-			<Item Name="SinglePoint-UpdateChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-UpdateChannels.vi"/>
 			<Item Name="SinglePoint.lvlib" Type="Library" URL="../Shared/Single Point/SinglePoint.lvlib"/>
 			<Item Name="WaveformCalculation.lvclass" Type="LVClass" URL="../Classes/WaveformCalculation/WaveformCalculation.lvclass"/>
 		</Item>
