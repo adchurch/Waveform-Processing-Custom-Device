@@ -123,21 +123,6 @@
 			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Populate Available Wfms.vi" Type="VI" URL="../System Explorer/SubVIs/Populate Available Wfms.vi"/>
-			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="Get Task Rate.vi" Type="VI" URL="../System Explorer/SubVIs/Get Task Rate.vi"/>
-			<Item Name="Add Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Add Waveforms from ListBox.vi"/>
-			<Item Name="RunningAverage-UpdateChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-UpdateChannels.vi"/>
-			<Item Name="RunningAverage-RemoveSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveSection.vi"/>
-			<Item Name="RunningAverage-AddSection.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddSection.vi"/>
-			<Item Name="RunningAverage-AddResultChannels.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-AddResultChannels.vi"/>
-			<Item Name="SinglePoint-UpdateChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-UpdateChannels.vi"/>
-			<Item Name="SinglePoint-AddResultChannels.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-AddResultChannels.vi"/>
-			<Item Name="Remove Waveforms from ListBox.vi" Type="VI" URL="../System Explorer/SubVIs/Remove Waveforms from ListBox.vi"/>
-			<Item Name="RunningAverage-RemoveResultChannel.vi" Type="VI" URL="../Shared/Running Average/RunningAverage-RemoveResultChannel.vi"/>
-			<Item Name="SinglePoint-RemoveResultChannel.vi" Type="VI" URL="../Shared/Single Point/SinglePoint-RemoveResultChannel.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Configuration Debug" Type="Source Distribution">
