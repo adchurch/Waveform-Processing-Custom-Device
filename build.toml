@@ -15,8 +15,13 @@ project = '{cd}'
 target = 'My Computer'
 build_spec = 'Configuration Release'
 
-[[build.steps]]
-name = 'Engine Libraries'
-type = 'lvBuildSpecAllTargets'
-project = '{cd}'
-build_spec = 'Engine Release'
+[package]
+type = 'nipkg'
+name = 'waveform-processing-custom-device'
+version = 2.1
+maintainer = 'Andy Church (andy.church@ni.com)'
+description = 'This is a package for the Waveform Processing Custom Device.'
+homepage = 'www.ni.com'
+display_name = 'Waveform Processing Custom Device'
+eula_dependency = 'eula-pkg'
+dependencies = ['pkg1', 'pkg2']
