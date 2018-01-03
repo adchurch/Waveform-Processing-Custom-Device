@@ -1,4 +1,3 @@
-<<<<<<< .merge_file_a05616
 Waveform-Processing-Custom-Device
 **Work in Progress**
 ===================

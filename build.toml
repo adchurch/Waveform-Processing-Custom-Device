@@ -1,8 +1,11 @@
 [archive]
 build_output_dir = 'Built'
-archive_location = '\\nirvana\temp\vs_cds\engine_sim_tk_custom_device'
+archive_location = '\\us-aus-hilbuild\builds\adchurch\archive\vs_cds\waveform processing addon'
 
 [projects.cd]
+path = 'Source\Waveform-Processing-Custom-Device.lvproj'
+
+[projects.api]
 path = 'Source\Waveform-Processing-Custom-Device.lvproj'
 
 [[build.steps]]
