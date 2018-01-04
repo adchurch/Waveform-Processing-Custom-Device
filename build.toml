@@ -18,7 +18,7 @@ build_spec = 'Configuration Release'
 [package]
 type = 'nipkg'
 name = 'waveform-processing-custom-device'
-version = 1.0.0.0
+version = '1.0.0.0'
 maintainer = 'Andy Church (andy.church@ni.com)'
 description = 'This is a package for the Waveform Processing Custom Device.'
 homepage = 'www.ni.com'
