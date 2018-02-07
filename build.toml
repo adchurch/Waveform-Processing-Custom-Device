@@ -18,10 +18,5 @@ build_spec = 'Configuration Release'
 [package]
 type = 'nipkg'
 name = 'waveform-processing-custom-device'
-version = '1.0.0.0'
-maintainer = 'Andy Church (andy.church@ni.com)'
-description = 'This is a package for the Waveform Processing Custom Device.'
-homepage = 'www.ni.com'
-display_name = 'Waveform Processing Custom Device'
-eula_dependency = 'eula-pkg'
-dependencies = ['pkg1', 'pkg2']
+release_version = '1.0'
+install_destination = 'documents\National Instruments\NI VeriStand {version}\Custom Devices\Waveform Processing Custom Device'
