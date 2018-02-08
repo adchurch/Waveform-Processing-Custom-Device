@@ -157,81 +157,6 @@
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
 			</Item>
-			<Item Name="Configuration Release" Type="Source Distribution">
-				<Property Name="Bld_buildCacheID" Type="Str">{F7E936A1-C50B-4217-AC2B-A4DA3629CD4B}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Configuration Release</Property>
-				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
-				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
-				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{E8035317-FDF9-4FC1-9EF0-1450E8CAE472}</Property>
-				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME</Property>
-				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME/Windows/Data</Property>
-				<Property Name="Destination[2].destName" Type="Str">Waveform-Processing-Custom-Device Configuration LLB</Property>
-				<Property Name="Destination[2].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME/Windows/Waveform-Processing-Custom-Device Configuration.llb</Property>
-				<Property Name="Destination[2].type" Type="Str">LLB</Property>
-				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6D3FA16E-AD35-400B-A72A-13D3E554E32F}</Property>
-				<Property Name="Source[0].type" Type="Str">Container</Property>
-				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Custom Device Waveform-Processing-Custom-Device.xml</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[2].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.applyProperties" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[2].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Waveform-Processing-Custom-Device System Explorer.lvlib/System Explorer</Property>
-				<Property Name="Source[2].properties[0].type" Type="Str">Run when opened</Property>
-				<Property Name="Source[2].properties[0].value" Type="Bool">false</Property>
-				<Property Name="Source[2].properties[1].type" Type="Str">Allow debugging</Property>
-				<Property Name="Source[2].properties[1].value" Type="Bool">false</Property>
-				<Property Name="Source[2].properties[2].type" Type="Str">Auto error handling</Property>
-				<Property Name="Source[2].properties[2].value" Type="Bool">false</Property>
-				<Property Name="Source[2].properties[3].type" Type="Str">Remove front panel</Property>
-				<Property Name="Source[2].properties[3].value" Type="Bool">false</Property>
-				<Property Name="Source[2].properties[4].type" Type="Str">Remove block diagram</Property>
-				<Property Name="Source[2].properties[4].value" Type="Bool">true</Property>
-				<Property Name="Source[2].propertiesCount" Type="Int">5</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[2].type" Type="Str">Container</Property>
-				<Property Name="Source[3].Container.applyProperties" Type="Bool">true</Property>
-				<Property Name="Source[3].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/NI VeriStand APIs</Property>
-				<Property Name="Source[3].properties[0].type" Type="Str">Remove front panel</Property>
-				<Property Name="Source[3].properties[0].value" Type="Bool">true</Property>
-				<Property Name="Source[3].properties[1].type" Type="Str">Remove block diagram</Property>
-				<Property Name="Source[3].properties[1].value" Type="Bool">true</Property>
-				<Property Name="Source[3].properties[2].type" Type="Str">Run when opened</Property>
-				<Property Name="Source[3].properties[2].value" Type="Bool">false</Property>
-				<Property Name="Source[3].properties[3].type" Type="Str">Allow debugging</Property>
-				<Property Name="Source[3].properties[3].value" Type="Bool">false</Property>
-				<Property Name="Source[3].properties[4].type" Type="Str">Auto error handling</Property>
-				<Property Name="Source[3].properties[4].value" Type="Bool">false</Property>
-				<Property Name="Source[3].propertiesCount" Type="Int">5</Property>
-				<Property Name="Source[3].type" Type="Str">Container</Property>
-				<Property Name="Source[4].Container.applyProperties" Type="Bool">true</Property>
-				<Property Name="Source[4].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Waveform-Processing-Custom-Device Shared.lvlib/Shared</Property>
-				<Property Name="Source[4].properties[0].type" Type="Str">Remove front panel</Property>
-				<Property Name="Source[4].properties[0].value" Type="Bool">false</Property>
-				<Property Name="Source[4].properties[1].type" Type="Str">Remove block diagram</Property>
-				<Property Name="Source[4].properties[1].value" Type="Bool">true</Property>
-				<Property Name="Source[4].properties[2].type" Type="Str">Run when opened</Property>
-				<Property Name="Source[4].properties[2].value" Type="Bool">false</Property>
-				<Property Name="Source[4].properties[3].type" Type="Str">Allow debugging</Property>
-				<Property Name="Source[4].properties[3].value" Type="Bool">false</Property>
-				<Property Name="Source[4].properties[4].type" Type="Str">Auto error handling</Property>
-				<Property Name="Source[4].properties[4].value" Type="Bool">false</Property>
-				<Property Name="Source[4].propertiesCount" Type="Int">5</Property>
-				<Property Name="Source[4].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">5</Property>
-			</Item>
 			<Item Name="Engine Debug" Type="Source Distribution">
 				<Property Name="Bld_buildCacheID" Type="Str">{C67C1B30-A649-4BB4-8780-C96741B30EB4}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Engine Debug</Property>
@@ -332,54 +257,37 @@
 				<Property Name="Source[4].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
-			<Item Name="Package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
-				<Property Name="NIPKG_license" Type="Ref"></Property>
-				<Property Name="NIPKG_releaseNotes" Type="Str"></Property>
-				<Property Name="PKG_actions.Count" Type="Int">0</Property>
-				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
-				<Property Name="PKG_buildNumber" Type="Int">0</Property>
-				<Property Name="PKG_buildSpecName" Type="Str">Package</Property>
-				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
-				<Property Name="PKG_description" Type="Str"></Property>
-				<Property Name="PKG_destinations.Count" Type="Int">4</Property>
-				<Property Name="PKG_destinations[0].ID" Type="Str">{37E8C756-D007-4D47-A990-40B7DCE7B42B}</Property>
-				<Property Name="PKG_destinations[0].Subdir.Directory" Type="Str">National Instruments</Property>
-				<Property Name="PKG_destinations[0].Subdir.Parent" Type="Str">root_2</Property>
-				<Property Name="PKG_destinations[0].Type" Type="Str">Subdir</Property>
-				<Property Name="PKG_destinations[1].ID" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
-				<Property Name="PKG_destinations[1].Subdir.Directory" Type="Str">Custom Devices</Property>
-				<Property Name="PKG_destinations[1].Subdir.Parent" Type="Str">{BB2AE14A-D3FC-4464-8BCA-E2B1780DBAE8}</Property>
-				<Property Name="PKG_destinations[1].Type" Type="Str">Subdir</Property>
-				<Property Name="PKG_destinations[2].ID" Type="Str">{BB2AE14A-D3FC-4464-8BCA-E2B1780DBAE8}</Property>
-				<Property Name="PKG_destinations[2].Subdir.Directory" Type="Str">NI VeriStand 2015</Property>
-				<Property Name="PKG_destinations[2].Subdir.Parent" Type="Str">{37E8C756-D007-4D47-A990-40B7DCE7B42B}</Property>
-				<Property Name="PKG_destinations[2].Type" Type="Str">Subdir</Property>
-				<Property Name="PKG_destinations[3].ID" Type="Str">{D59CC5C3-9428-4620-B827-104562867AA4}</Property>
-				<Property Name="PKG_destinations[3].Subdir.Directory" Type="Str">Waveform-Processing-Custom-Device</Property>
-				<Property Name="PKG_destinations[3].Subdir.Parent" Type="Str">root_5</Property>
-				<Property Name="PKG_destinations[3].Type" Type="Str">Subdir</Property>
-				<Property Name="PKG_displayName" Type="Str">My Package</Property>
-				<Property Name="PKG_displayVersion" Type="Str"></Property>
-				<Property Name="PKG_homepage" Type="Str"></Property>
-				<Property Name="PKG_maintainer" Type="Str">NIC SE &lt;&gt;</Property>
-				<Property Name="PKG_output" Type="Path">../builds/Package</Property>
-				<Property Name="PKG_output.Type" Type="Str">relativeToCommon</Property>
-				<Property Name="PKG_packageName" Type="Str">waveform-processing-custom-device-for-veristand-2015</Property>
-				<Property Name="PKG_ProviderVersion" Type="Int">1750</Property>
-				<Property Name="PKG_section" Type="Str">Application Software</Property>
-				<Property Name="PKG_shortcuts.Count" Type="Int">0</Property>
-				<Property Name="PKG_sources.Count" Type="Int">3</Property>
-				<Property Name="PKG_sources[0].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
-				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/Engine Release</Property>
-				<Property Name="PKG_sources[0].Type" Type="Str">Build</Property>
-				<Property Name="PKG_sources[1].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
-				<Property Name="PKG_sources[1].ID" Type="Ref">/My Computer/Build Specifications/Configuration Release</Property>
-				<Property Name="PKG_sources[1].Type" Type="Str">Build</Property>
-				<Property Name="PKG_sources[2].Destination" Type="Str">{6C24DD1F-3769-42CE-95E5-D2FBB11F570D}</Property>
-				<Property Name="PKG_sources[2].ID" Type="Ref">/My Computer/Custom Device Waveform-Processing-Custom-Device.xml</Property>
-				<Property Name="PKG_sources[2].Type" Type="Str">File</Property>
-				<Property Name="PKG_synopsis" Type="Str">Waveform-Processing-Custom-Device</Property>
-				<Property Name="PKG_version" Type="Str">1.0.0</Property>
+			<Item Name="Configuration Release" Type="Source Distribution">
+				<Property Name="Bld_buildCacheID" Type="Str">{E6F62609-F55F-4356-BC3D-854C85523A05}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Configuration Release</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{57964F4F-0E6F-46AE-8B30-CB13B93B0688}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
+				<Property Name="Destination[0].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME/Windows/Data</Property>
+				<Property Name="Destination[2].destName" Type="Str">Waveform-Processing-Custom-Device Configuration LLB</Property>
+				<Property Name="Destination[2].path" Type="Path">../Built/Custom Devices/NI_AB_PROJECTNAME/Windows/Waveform-Processing-Custom-Device Configuration.llb</Property>
+				<Property Name="Destination[2].type" Type="Str">LLB</Property>
+				<Property Name="DestinationCount" Type="Int">3</Property>
+				<Property Name="Source[0].itemID" Type="Str">{DD60DB8C-B381-4875-B856-70AA0A360FA3}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Custom Device Waveform-Processing-Custom-Device.xml</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].Container.applyDestination" Type="Bool">true</Property>
+				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Waveform-Processing-Custom-Device System Explorer.lvlib/System Explorer</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">Container</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
 			</Item>
 		</Item>
 	</Item>
