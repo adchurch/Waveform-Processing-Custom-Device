@@ -5,9 +5,6 @@ archive_location = '\\us-aus-hilbuild\builds\adchurch\archive\vs_cds\waveform pr
 [projects.cd]
 path = 'Source\Waveform-Processing-Custom-Device.lvproj'
 
-[projects.api]
-path = 'Source\Waveform-Processing-Custom-Device.lvproj'
-
 [[build.steps]]
 name = 'Configuration Library'
 type = 'lvBuildSpec'
@@ -17,6 +14,6 @@ build_spec = 'Configuration Release'
 
 [package]
 type = 'nipkg'
-name = 'waveform-processing-custom-device'
-release_version = '1.0'
-install_destination = 'documents\National Instruments\NI VeriStand {version}'
+name = 'waveform-processing-custom-device-{veristand_version}'
+dev_xml_path = 'Source\Custom Device Waveform-Processing-Custom-Device.xml'
+install_destination = 'documents\National Instruments\NI VeriStand {version}\Custom Devices'
