@@ -15,5 +15,5 @@ build_spec = 'Configuration Release'
 [package]
 type = 'nipkg'
 name = 'waveform-processing-custom-device-{veristand_version}'
-dev_xml_path = 'Source\Custom Device Waveform Processing Custom Device.xml'
+dev_xml_path = 'Source\Custom Device Waveform-Processing-Custom-Device.xml'
 install_destination = 'documents\National Instruments\NI VeriStand {version}\Custom Devices'
