@@ -1,5 +1,5 @@
-Package: waveform-processing-custom-device-{version}
-Version: 1.0
+Package: waveform-processing-custom-device-{veristand_version}
+Version: {nipkg_version}
 Architecture: windows_x64
 Maintainer: National Instruments <support@ni.com>
 XB-Plugin: file
@@ -9,6 +9,6 @@ Priority: standard
 Homepage: http://www.ni.com
 XB-LanguageSupport: en
 Section: Add-Ons
-XB-DisplayVersion: 1.0.0.0
-XB-DisplayName: Waveform Processing Custom Device for VeriStand {version}
+XB-DisplayVersion: {nipkg_version}
+XB-DisplayName: Waveform Processing Custom Device for VeriStand {veristand_version}
 Depends: 
